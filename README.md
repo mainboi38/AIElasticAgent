@@ -124,14 +124,6 @@ flowchart LR
 
 ---
 
-## Future roadmap
-- [ ] Ship a full FastAPI surface with OpenAPI docs and request schemas.
-- [ ] Replace placeholder front-end with a React/TypeScript UI for conversational dashboard authoring.
-- [ ] Add guardrails (e.g., LLM output validation, retry policies) and automated tests.
-- [ ] Introduce analytics on dashboard usage to close the feedback loop.
-
----
-
 ## About the author
 This project is crafted to showcase systems thinking across AI, data engineering, and the Elastic ecosystem. It highlights experience with:
 - **Observability platforms** (Elasticsearch, Kibana, REST APIs)
