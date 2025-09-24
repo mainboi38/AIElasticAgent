@@ -1,0 +1,993 @@
+{"index": {"_index": "network-logs"}}
+{"duration": 385, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1462, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1423, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 379, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1022, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1281, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 224, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 661, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 281, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 64, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1341, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 913, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 425, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 838, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 969, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 124, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 461, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 845, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 410, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1425, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 118, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1386, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 433, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 531, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 282, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1487, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 563, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1313, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 350, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 373, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1155, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 521, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1346, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1311, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 117, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1271, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 308, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 545, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 572, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1474, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1363, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 443, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1026, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 554, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 649, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1378, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 107, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 317, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 875, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 576, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 619, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1224, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 632, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 670, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 88, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1497, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 304, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1001, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1352, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 548, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1114, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 149, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 548, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1106, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1290, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 190, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 995, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1342, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 722, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1181, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 907, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1427, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 793, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 686, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1092, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 492, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 811, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1444, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 423, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 744, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 173, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 340, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1082, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 876, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1319, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 976, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 985, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 902, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 889, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1492, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 787, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1070, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1455, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 640, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1178, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 158, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1409, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 866, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 343, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 531, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1387, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 715, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 765, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 646, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1142, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1005, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 984, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 512, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1191, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 527, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1388, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 425, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 491, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 668, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1127, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1292, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1026, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 712, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1310, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1409, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 939, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 361, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 723, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1409, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 354, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 876, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 254, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1100, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 574, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 167, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 814, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 121, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 863, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 187, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1347, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 709, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 591, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1043, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 226, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 631, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 609, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1132, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 941, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 525, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 706, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1438, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 558, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1485, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1103, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 192, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1307, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 882, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1364, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1368, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 418, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 878, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1358, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 721, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1084, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 399, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 980, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1144, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 423, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 580, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 770, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 308, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 438, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 587, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 665, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 717, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1407, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1090, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 381, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 802, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 574, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1152, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 350, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1240, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 591, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 497, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 185, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 72, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 363, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 305, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1201, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 638, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1428, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 863, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 283, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 556, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 482, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1158, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 791, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 956, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 195, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 960, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 670, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 432, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 558, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 969, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1089, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 992, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1418, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1483, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1104, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 514, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 636, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 358, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1061, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 107, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 911, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1065, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 932, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 308, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 840, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 802, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1163, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 798, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1335, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 452, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 195, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1436, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 745, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 786, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1073, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1263, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 448, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1135, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1481, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 666, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 382, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 287, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1230, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 782, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1029, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 603, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 160, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1303, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 924, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1229, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1247, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 457, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 553, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1458, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 628, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 108, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 899, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 704, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 791, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1229, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 325, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 835, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 721, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1162, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 920, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 635, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 861, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1443, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 362, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 680, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1419, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 749, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1405, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1225, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 461, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1428, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1102, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1409, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 960, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 437, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 179, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1418, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 973, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1147, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 516, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1128, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 635, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1009, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 104, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 98, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1352, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 163, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 765, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 802, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1166, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 594, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1343, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 601, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1457, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 886, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1066, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 748, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 866, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1188, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 332, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 670, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 952, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1368, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 633, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 674, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 76, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 389, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 125, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1062, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1364, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 777, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1034, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 461, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1493, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1071, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 784, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 140, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 406, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1428, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 678, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 533, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 141, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 474, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1400, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 306, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1190, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1278, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1136, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 643, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 986, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 869, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 635, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1266, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1413, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 769, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 815, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 926, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 864, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1233, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 785, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 579, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1070, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 960, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 164, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 575, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 989, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1095, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1211, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1053, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1429, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1388, "protocol_type": "udp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 263, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 933, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1036, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 336, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1379, "protocol_type": "icmp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 286, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 843, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 587, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 369, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 395, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 116, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1085, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1373, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1357, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 498, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 660, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1078, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 83, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 448, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 412, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1464, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 869, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1276, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 882, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1372, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 998, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 238, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 480, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1048, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1278, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1329, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 248, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 798, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 784, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1443, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1124, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1111, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 651, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 369, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1479, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 268, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1169, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 771, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 150, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1031, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1250, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1089, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1278, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 712, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1019, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1284, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 904, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1261, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1385, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 658, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1022, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 366, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1274, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1362, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 399, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 382, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 896, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1333, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1068, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1433, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1497, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 169, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1354, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1417, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1054, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 560, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1286, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 506, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 467, "protocol_type": "udp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 915, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 409, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 816, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 650, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 550, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 435, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 542, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 612, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1105, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1174, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 199, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 822, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 196, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1259, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 757, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 454, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 849, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1474, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 124, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1180, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1093, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1071, "protocol_type": "tcp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 605, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 792, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 329, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 244, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1284, "protocol_type": "icmp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1254, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 612, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 256, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 874, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 416, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 209, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 766, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 729, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 866, "protocol_type": "icmp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1419, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1114, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 129, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 254, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 346, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 690, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1080, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 450, "protocol_type": "udp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 478, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 755, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 786, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1234, "protocol_type": "udp", "service": "dns", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 919, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1414, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1331, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 227, "protocol_type": "icmp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 465, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1364, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1345, "protocol_type": "udp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "blocked", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 409, "protocol_type": "udp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 476, "protocol_type": "icmp", "service": "ftp", "label": "intrusion", "Indicator": "no detection", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 156, "protocol_type": "icmp", "service": "dns", "label": "ddos", "Indicator": "no detection", "Action": "ignored", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1069, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1116, "protocol_type": "tcp", "service": "ftp", "label": "intrusion", "Indicator": "ioc detected", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1479, "protocol_type": "icmp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 142, "protocol_type": "udp", "service": "http", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 829, "protocol_type": "icmp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 350, "protocol_type": "tcp", "service": "ftp", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 715, "protocol_type": "tcp", "service": "ftp", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 155, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "no detection", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 648, "protocol_type": "tcp", "service": "http", "label": "malware", "Indicator": "no detection", "Action": "logged", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1338, "protocol_type": "tcp", "service": "http", "label": "intrusion", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 995, "protocol_type": "icmp", "service": "dns", "label": "malware", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 855, "protocol_type": "tcp", "service": "dns", "label": "intrusion", "Indicator": "no detection", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 84, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "low"}
+{"index": {"_index": "network-logs"}}
+{"duration": 275, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 170, "protocol_type": "udp", "service": "ftp", "label": "malware", "Indicator": "ioc detected", "Action": "logged", "Severity": "medium"}
+{"index": {"_index": "network-logs"}}
+{"duration": 197, "protocol_type": "tcp", "service": "http", "label": "ddos", "Indicator": "ioc detected", "Action": "blocked", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1271, "protocol_type": "udp", "service": "ftp", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
+{"duration": 1388, "protocol_type": "tcp", "service": "dns", "label": "ddos", "Indicator": "ioc detected", "Action": "ignored", "Severity": "high"}
+{"index": {"_index": "network-logs"}}
