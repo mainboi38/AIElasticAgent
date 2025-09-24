@@ -5,9 +5,9 @@ AIElasticAgent turns natural-language monitoring goals into ready-to-use Kibana 
 ---
 
 ## Why it stands out
-- **Transforms analyst intent into assets.** Feed it a plain-English description and it provisions the visualizations, panel layouts, and saved objects you need inside Kibana automatically.【F:backend/kibana_agent.py†L23-L119】【F:backend/kibana_agent.py†L152-L218】
-- **Speaks Elasticsearch natively.** Index mappings are validated before a dashboard is built, so every visualization references real fields and stays resilient to schema drift.【F:backend/kibana_agent.py†L65-L119】
-- **Full-stack glue.** Converter scripts, mapping helpers, Dockerized services, and environment management show how to operationalize AI features end-to-end—not just call an API.【F:converter.py†L1-L32】【F:backend/mapping.py†L1-L24】【F:docker-compose.yml†L1-L38】
+- **Transforms analyst intent into assets.** Feed it a plain-English description and it provisions the visualizations, panel layouts, and saved objects you need inside Kibana automatically.
+- **Speaks Elasticsearch natively.** Index mappings are validated before a dashboard is built, so every visualization references real fields and stays resilient to schema drift.
+- **Full-stack glue.** Converter scripts, mapping helpers, Dockerized services, and environment management show how to operationalize AI features end-to-end—not just call an API.
 - **Recruiter-friendly signal.** Demonstrates applied ML/AI orchestration, platform automation, and observability tooling—skills hiring teams look for in senior data, platform, or security engineers.
 
 ---
@@ -49,10 +49,10 @@ flowchart LR
 ## Feature highlights
 | Capability | What it delivers |
 |------------|------------------|
-| **Natural-language dashboard authoring** | Structured prompts and Pydantic validation coerce the LLM into returning consistent dashboard specs that Kibana can ingest immediately.【F:backend/kibana_agent.py†L30-L117】 |
-| **API-first automation** | Uses the Kibana Saved Objects API to stand up visualizations and dashboards without manual clicks, enabling CI/CD for observability assets.【F:backend/kibana_agent.py†L120-L218】 |
-| **Schema-aware ingestion** | Utilities for shaping CSV cybersecurity data into Elasticsearch-friendly mappings and bulk JSONL keep the stack aligned with production telemetry.【F:converter.py†L1-L32】【F:backend/mapping.py†L1-L24】 |
-| **Containerized stack** | `docker-compose` spins up Elasticsearch, Kibana, Ollama, a backend service, and a static UI shell so you can demo the workflow in minutes.【F:docker-compose.yml†L1-L38】 |
+| **Natural-language dashboard authoring** | Structured prompts and Pydantic validation coerce the LLM into returning consistent dashboard specs that Kibana can ingest immediately.
+| **API-first automation** | Uses the Kibana Saved Objects API to stand up visualizations and dashboards without manual clicks, enabling CI/CD for observability assets.
+| **Schema-aware ingestion** | Utilities for shaping CSV cybersecurity data into Elasticsearch-friendly mappings and bulk JSONL keep the stack aligned with production telemetry.
+| **Containerized stack** | `docker-compose` spins up Elasticsearch, Kibana, Ollama, a backend service, and a static UI shell so you can demo the workflow in minutes.
 
 ---
 
