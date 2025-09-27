@@ -110,15 +110,15 @@ flowchart LR
 ## How it maps to the Elastic AI dashboards article
 | Article insight | Project implementation |
 |-----------------|------------------------|
-| *Blend LLM reasoning with observability context.* | Prompt engineering keeps the model grounded in your Elasticsearch mappings and uses structured outputs so the responses line up with Kibana’s saved object schema.【F:backend/kibana_agent.py†L30-L117】 |
-| *Automate dashboard provisioning.* | The backend posts visualizations and dashboards through Kibana’s REST API, recreating the hands-off experience described in the Elastic Search Labs project.【F:backend/kibana_agent.py†L120-L218】 |
-| *Start from your own data.* | CSV → JSONL converters and mapping helpers let you onboard proprietary telemetry before invoking the LLM, mirroring the article’s emphasis on customer-specific datasets.【F:converter.py†L1-L32】【F:backend/mapping.py†L1-L24】 |
+| *Blend LLM reasoning with observability context.* | Prompt engineering keeps the model grounded in your Elasticsearch mappings and uses structured outputs so the responses line up with Kibana’s saved object schema. |
+| *Automate dashboard provisioning.* | The backend posts visualizations and dashboards through Kibana’s REST API, recreating the hands-off experience described in the Elastic Search Labs project. |
+| *Start from your own data.* | CSV → JSONL converters and mapping helpers let you onboard proprietary telemetry before invoking the LLM, mirroring the article’s emphasis on customer-specific datasets. |
 
 ---
 
 ## Customize & extend
-- **Swap the LLM** – Point `init_chat_model` to your enterprise endpoint (OpenAI, Azure OpenAI, self-hosted Ollama) or extend the LangChain chain with retrieval augmentations.【F:backend/kibana_agent.py†L23-L49】
-- **Enrich visualizations** – Expand the visualization template logic to support Lens, TSVB, or custom Vega panels, or fan out multiple aggregation strategies per field.【F:backend/kibana_agent.py†L120-L204】
+- **Swap the LLM** – Point `init_chat_model` to your enterprise endpoint (OpenAI, Azure OpenAI, self-hosted Ollama) or extend the LangChain chain with retrieval augmentations.
+- **Enrich visualizations** – Expand the visualization template logic to support Lens, TSVB, or custom Vega panels, or fan out multiple aggregation strategies per field.
 - **Productionize the backend** – Wrap `main` with FastAPI routes, add auth, and wire in async task queues for large dashboard batches.
 - **Integrate CI/CD** – Because everything runs through APIs, you can check dashboard definitions into Git, replay them in staging, or pair with Terraform for repeatable observability environments.
 
