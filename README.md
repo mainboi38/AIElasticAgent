@@ -8,8 +8,6 @@ AIElasticAgent turns natural-language monitoring goals into ready-to-use Kibana 
 - **Transforms analyst intent into assets.** Feed it a plain-English description and it provisions the visualizations, panel layouts, and saved objects you need inside Kibana automatically.
 - **Speaks Elasticsearch natively.** Index mappings are validated before a dashboard is built, so every visualization references real fields and stays resilient to schema drift.
 - **Full-stack glue.** Converter scripts, mapping helpers, Dockerized services, and environment management show how to operationalize AI features end-to-end—not just call an API.
-- **Recruiter-friendly signal.** Demonstrates applied ML/AI orchestration, platform automation, and observability tooling—skills hiring teams look for in senior data, platform, or security engineers.
-
 ---
 
 ## System architecture
@@ -121,13 +119,5 @@ flowchart LR
 - **Enrich visualizations** – Expand the visualization template logic to support Lens, TSVB, or custom Vega panels, or fan out multiple aggregation strategies per field.
 - **Productionize the backend** – Wrap `main` with FastAPI routes, add auth, and wire in async task queues for large dashboard batches.
 - **Integrate CI/CD** – Because everything runs through APIs, you can check dashboard definitions into Git, replay them in staging, or pair with Terraform for repeatable observability environments.
-
----
-
-## About the author
-This project is crafted to showcase systems thinking across AI, data engineering, and the Elastic ecosystem. It highlights experience with:
-- **Observability platforms** (Elasticsearch, Kibana, REST APIs)
-- **Applied LLM engineering** (LangChain, OpenAI function calling, Pydantic models)
-- **Automation & infrastructure** (Docker Compose, Python tooling, data ingestion pipelines)
 
 If you’re evaluating talent for AI platform roles, SRE/observability modernization, or security analytics, this repository demonstrates the ability to ship real, end-to-end solutions.
